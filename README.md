@@ -13,10 +13,10 @@ This code solves dynamic trvaeling saleman problem with deep reinforcement learn
 
 ## Dependencies
 
-* python >= 3.6.3
+* python = 3.6.3
 * NumPy
 * Scipy
-* PyTorch>=1.7
+* PyTorch = 1.7
 * tensorboard_logger
 
 ## Quick Start
